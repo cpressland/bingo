@@ -66,7 +66,7 @@ words = {
     "60": "Five dozen",
     "61": "Baker's bun",
     "62": "Turn the screw",
-    "63": "Oh my god, they killed Kennedy",
+    "63": "OMG, they killed Kennedy",
     "64": "Will you still love me",
     "65": "Thunderbirds are Go",
     "66": "Jedi Tricks",
